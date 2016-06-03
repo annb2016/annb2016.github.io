@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://annb2016.github.io
 title: annb2016
-tagline: A log of everyday life
-description: My awesome new site
+tagline: My memoirs
+description: A new venture
 paginate: 5
